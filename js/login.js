@@ -8,8 +8,7 @@ $(document).ready( function()
                      required: true,
                   },
                  pword: {
-                     required: true,
-                    
+                     required: true,  
                  },
                  
              },
