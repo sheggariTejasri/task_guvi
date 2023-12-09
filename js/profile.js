@@ -10,8 +10,7 @@ $(document).ready( function()
                     max:90
                  },
                 dob: {
-                    required: true,
-                   
+                    required: true,  
                 },
                 contact: {
                     required: true,
