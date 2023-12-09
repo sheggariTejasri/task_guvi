@@ -1,6 +1,6 @@
   $(document).ready( function()
    {
-      
+     
       $("#username").blur( 
           function() {
            console.log("Reached");
